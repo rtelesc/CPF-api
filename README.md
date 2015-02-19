@@ -3,8 +3,6 @@
 
 Projeto desenvolvido para auxiliar na verificação de CPF, informando os dados do portador:  nome, nome da mãe e sexo.
 
-Modo de Uso:
-
 
 Tipos de requisição.
 
