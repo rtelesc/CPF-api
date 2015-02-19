@@ -15,7 +15,7 @@
                 nomeProduto = "nada"
                };       
             $.ajax({  
-                   url: "../api.php?tipo="+ tipo + "&cpf=" + nomeProduto, 
+                   url: "../api-gov.php?tipo="+ tipo + "&cpf=" + nomeProduto, 
                    dataType: 'html',
                    data: {produto:nomeProduto},
                    type: "POST", 
