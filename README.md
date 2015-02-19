@@ -1,4 +1,4 @@
-# CPFapi
+Consulta de CPF via AJAX usando CPFapi
 
 
 Projeto desenvolvido para auxiliar na verificação de CPF, informando os dados do portador:  nome, nome da mãe e sexo.
