@@ -1,10 +1,8 @@
-Consulta de CPF via AJAX usando CPFapi
+Consultar CPF usando Jquery/PHP
 
+Projeto desenvolvido para auxiliar na consulta/verificação de CPFs, informando os dados do portador.
 
-Projeto desenvolvido para auxiliar na verificação de CPF, informando os dados do portador:  nome, nome da mãe e sexo.
-
-
-A variavel cpf reconhece os digitos sem pontuação.
+A variável cpf reconhece os digitos sem pontuação.
 
 cpf=87150526640
 
