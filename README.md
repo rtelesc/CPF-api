@@ -6,7 +6,7 @@ A variável cpf reconhece os digitos sem pontuação.
 
 cpf=87150526640
 
-api.php?cpf=87150526640
+api-gov.php?cpf=87150526640
 
 
 Exemplo Pratico com Jquery
