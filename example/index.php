@@ -39,11 +39,7 @@
 <h2>CPF</h2>
 <!--Aqui o formulário -->
 <input type="text" id="nomeProduto" class="form-control" placeholder="Ex.: 15016098750" name="produto" style="max-width: 400px;width: 90%;margin: 0 auto;"></br></br>
-<select id="tipo" class="form-control" name="tipo" style="max-width: 380px; width: 90%; margin: 0 auto;">
-  <option value="nome">Nome do Portador</option>
-  <option value="mae">Nome da Mãe do Portador</option>
-  <option value="sexo">Sexo do Portador</option>
-</select>
+
 </br></br>
 <button type="button" id="buscaProduto" class="btn btn-success btn-lg btn-block" style="max-width: 380px; width: 90%; margin: 0 auto;">Procurar</button>
 <!--Fim do formulário-->
