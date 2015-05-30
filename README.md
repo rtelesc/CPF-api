@@ -13,7 +13,7 @@ Exemplo Pratico com Jquery
 https://github.com/slaureano/CPFapi/tree/master/example
 
 
-****************************************************** Segundo exemplo *********************************************
+*************************** Segundo exemplo *****************
 
 require_once("Cpf-Receita.php");
 
