@@ -86,6 +86,7 @@ class ConsultaCPF
 		return true;
 	}
 }
+
 /*
 :::Exemplo de uso:::
 $cpf = new ConsultaCPF();
