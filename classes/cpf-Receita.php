@@ -98,3 +98,5 @@ if($cpf->consultar()){
 	print $cpf->error()."\n";
 }
 */
+
+?>
