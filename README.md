@@ -1,4 +1,4 @@
-Consultar CPF usando Jquery/PHP
+Consultar CPF usando PHP
 
 Projeto desenvolvido para auxiliar na consulta/verificação de CPFs, informando os dados do portador.
 
